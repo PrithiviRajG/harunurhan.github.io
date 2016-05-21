@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Harun Urhan | Blog
+description: "Blog of a student who likes big data and other stuff too"
+url: "http://harunurhan.github.io"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Harun Urhan"
+  email: "harunurhan17@gmail.com"
+  url: "http://harunurhan.github.io"
 
 # Build settings
 baseurl: /
@@ -26,7 +26,7 @@ defaults:
       layout: "post"
 
 # Custom variables
-version: "1.1.0"
+version: "0.0.1"
 
 # Options
 custom_header: false
